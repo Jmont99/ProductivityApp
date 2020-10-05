@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import TodoApp from "./ToDoList/component";
+import TodoApp from "./ToDoList";
 import Calendar from "react-calendar";
 import { render } from "react-dom";
 
